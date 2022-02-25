@@ -1,0 +1,15 @@
+{
+  "name": "boxline-challenge",
+  "version": "0.0.0",
+  "description": "Given a `X*Y*Z` box built by arranging `1*1*1` unit boxes, write a function `f(X,Y,Z)` that returns the number of edges (hence, **boxlines**) of length 1 (both inside and outside of the box)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "keywords": [],
+  "author": "Artem Nikolaev <artem@nikolaev.by>",
+  "license": "unlicence",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
